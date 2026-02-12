@@ -1,11 +1,10 @@
 ---
 name: asymmetric-strategy
-description: Find leverage against stronger opponents by changing the terms of engagement.
-  Fight your war, not theirs.
+description: Find leverage against stronger opponents by changing the terms of engagement. Fight your war, not theirs.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - asymmetric-strategy
 - writing
