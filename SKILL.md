@@ -3,8 +3,9 @@ name: asymmetric-strategy
 description: Find leverage against stronger opponents by changing the terms of engagement. Fight your war, not theirs.
 license: MIT
 metadata:
+  version: 1.0.3419
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - asymmetric-strategy
 - writing
